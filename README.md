@@ -1,4 +1,4 @@
-# arquitetura-css
+# Arquitetura-CSS
 
 ![preview](./assets/img/preview.png)
 
@@ -28,7 +28,7 @@ Project developed during the CSS Architecture course.<br>
 <br>The objective of the course is to develop the Fruta&Fruta hortifruti page from the best
 CSS architectural practices.
 
-## 💻 technologies
+## 💻 Technologies
 - HTML
 - CSS
 

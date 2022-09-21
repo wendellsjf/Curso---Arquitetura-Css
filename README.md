@@ -1,6 +1,6 @@
 # arquitetura-css
 
-![preview](./arquitetura-css-assets/assets/img/preview.png)
+![preview](./assets/img/preview.png)
 
 
 [🔗*clique aqui para acessar*](https://wendellsjf.github.io/Curso---Arquitetura-Css/)

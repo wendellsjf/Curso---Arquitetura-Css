@@ -2,7 +2,6 @@
     width: 100%;
     color: #fdfdfd;
     font-family: 'Pacifico', cursiva;
-    font-size: 5.0625rem;
     position: absolute;
     left: 50%;
     text-shadow: 0 4px 4px rgb(0, 0, 0, 0.75);
@@ -10,4 +9,19 @@
     text-align: center; 
     transform: translate(-50%, -50%);
    
+}
+
+@media screen and (min-width: 0px) {
+    .banner__titulo {
+        font-size: 3rem;
+        padding: 0 5rem;
+        justify-content: space-between;
+    }
+}
+
+
+@media screen and (min-width: 768px) {
+    .banner__titulo {
+        font-size: 5.0625rem;
+    }
 }
